@@ -1,0 +1,31 @@
+.container1{
+    background-color: #ffffff;
+    margin:50px;
+    padding: 25px;
+    box-shadow: 5px 5px 15px gray;
+    width:auto;
+    height: auto;
+    display: block;
+
+
+}
+.edad{
+    font-size: 25px;
+}
+
+.input {
+    outline: none;
+    padding: 20px;
+    display: block;
+    width: 300px;
+    border-radius: 3px;
+    border:  1px solid #eee;
+    margin: 20px auto;
+ }
+ form .btn-custom{
+    width:14%;
+    border-radius:15px ;
+    font-size: 25px;
+    background-color:#3d3d3d;
+    color: white;
+ }

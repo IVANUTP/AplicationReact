@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Concert+One&family=Oswald:wght@200&display=swap');
+
+
+.calculator {
+    max-width: 500px; /* Ajusta el ancho máximo según tus necesidades */
+    margin: 0 auto; /* Centra la calculadora horizontalmente */
+    font-family: 'Bebas Neue', sans-serif;
+  }
+.container {
+    border: 5px solid black;
+    border-radius: 30px;
+    padding: 10px;
+
+}
+
+.keypad
+{
+ background: #a7a7a7;
+ display:block;
+ border: 5px solid black;
+ align-items: center;
+ text-align: center;
+ margin: 5px;
+
+}
+.resul{
+    font-size:50px;
+
+}
+
+.display {
+    border: 5px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    background: #343434;
+}
+.btn{
+    margin: 5px;
+    font-size: 30px;
+    display: flex;
+    padding: 20px;
+    
+}

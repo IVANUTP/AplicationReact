@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Concert+One&display=swap');
+.encab{
+    padding: 10px;  
+    margin: 15px;
+    background-color: #ffffff;  
+    
+}
+.encab .title{
+    text-align:center;
+    font-size: 60px;
+    margin: 2px;
+    font-family: 'Concert One', cursive;
+}
+.logo{
+  width: 100px;
+  margin: 4px;
+}
